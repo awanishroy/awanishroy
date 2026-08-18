@@ -75,7 +75,7 @@ I create **tutorials, coding examples, practical resources, and projects** that 
 
 **Core PHP Project** — A complete Core PHP project demonstrating project structure, file organization, database handling, user data, controllers, configuration, and application development. **[Source Code](https://github.com/awanishroy/core-php)**
 
-**Regex Tutorial** — A complete Regex tutorial covering concepts, patterns, examples, practice problems, and implementations using Python and PHP. **[Source Code](https://github.com/awanishroy/regex-tutorial)**
+**Regex Tutorial** — A complete Regex tutorial covering concepts, patterns, examples, practice problems, and implementations using Python and PHP. **[Source Code](https://github.com/awanishroy/regex)**
 
 **Laravel Projects** — Laravel projects and practical implementations covering application development, experiments, and real-world development patterns. **[Source Code](https://github.com/awanishroy/lara-project)**
 
